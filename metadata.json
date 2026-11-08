@@ -1,0 +1,6 @@
+{
+  "name": "AI DJ Mixer",
+  "description": "Dual-deck mobile DJ mixer with waveform trimming, 3-band EQ, Gemini AI music generation, BPM auto-sync, and live recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
